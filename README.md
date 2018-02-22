@@ -5,6 +5,17 @@ Download [Latest](https://github.com/Ox27/SFTool/releases/latest)
 
 ---
 
+## Requirements
+
+* Windows (Tested on Win10)
+* [Python](https://www.python.org/downloads/) 2.7
+* [Process Hacker 2](https://sourceforge.net/projects/processhacker/files/latest/download)
+* Just run `pip install -r requirements.txt`, I don't know how to find what packages aren't in the default build
+* Minecraft (No shit)
+* Some ghost client for testing
+
+---
+
 Instructions to using (More in-depth than the instructions in the program)
 
 1.	Launch Minecraft on a version that your client injects into
